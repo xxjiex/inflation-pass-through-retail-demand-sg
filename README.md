@@ -96,6 +96,5 @@ From a microeconomic perspective:
 ---
 
 ## Files
-- `notebooks/analysis.ipynb`: Data processing and regression analysis
-- `results/`: Figures and regression tables
-- `report.pdf`: Full analysis and interpretation
+- `analysis.ipynb`: Complete analysis including code, figures, and interpretation
+
