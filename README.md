@@ -96,5 +96,8 @@ From a microeconomic perspective:
 ---
 
 ## Files
-- `analysis.ipynb`: Complete analysis including code, figures, and interpretation
+- `inflation-retail-github.ipynb` – Complete Jupyter notebook with code
+- `data/` – Folder containing datasets used in the analysis  
+- `figures/` – Folder with all charts and visualizations generated from the notebook  
+- `inflation-retail-demand.docx` – Written report summarizing methodology, figures, results, and business insights
 
